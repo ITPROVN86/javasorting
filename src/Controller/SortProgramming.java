@@ -15,7 +15,7 @@ import View.Menu;
  */
 public class SortProgramming extends Menu<String> {
 
-    static String[] mc = {"Sort", "Search", "Test", "Exit"};
+    static String[] mc = {"Sort", "Search", "Exit"};
 
     protected Library library;
     protected Algorithm algorithm;
